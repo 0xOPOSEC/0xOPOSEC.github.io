@@ -7,7 +7,6 @@ description: Based in Porto, the ØxＯＰＯＳɆＣ group was started by g33ks
 url: "https://0xoposec.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
-
 #########################
 # more settings
 
@@ -22,22 +21,44 @@ markdown: kramdown
 compress_html:
   clippings: all
   comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  endings:
+    [
+      html,
+      head,
+      body,
+      li,
+      dt,
+      dd,
+      rt,
+      rp,
+      optgroup,
+      option,
+      colgroup,
+      caption,
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th,
+    ]
   profile: false
   blanklines: false
   ignore:
     envs: []
 
-
 # baseurl: ""
-permalink: /blog/:slug
-timezone: WET
-future: false
+#permalink: /events/:slug
+#timezone: WET
+#future: false
 
 exclude:
-- README.md
-- LICENSE.md
+  - README.md
+  - LICENSE.md
 
-exclude: [vendor]
-
-Blog: /blog
+##urls
+events: /events
+talks: /talks
+slack: https://bit.ly/3XbyGQu
+cfp: https://bit.ly/0xOPOSECTalks
+meetup: https://www.meetup.com/0xoposec/events/

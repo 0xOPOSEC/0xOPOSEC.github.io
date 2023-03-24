@@ -1,9 +1,10 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: 'Fira Code', monospace;
     margin: auto;
     padding: 20px;
     max-width: 720px;
-    text-align: left;
+    text-align: justify;
+    text-justify: distribute;
     background-color: #fff;
     word-wrap: break-word;
     overflow-wrap: break-word;
