@@ -2,7 +2,7 @@
 # site.title
 
 title: ØxＯＰＯＳɆＣ Mɇɇtuᵽ
-description: Based in Porto, the ØxＯＰＯＳɆＣ group was started by g33ks who are passionate about security.
+description: More than breaking through challenges, it is all about sharing the knowledge.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://0xoposec.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
@@ -61,4 +61,4 @@ events: /events
 talks: /talks
 slack: https://bit.ly/3XbyGQu
 cfp: https://bit.ly/0xOPOSECTalks
-meetup: https://www.meetup.com/0xoposec/events/
+meetup: https://www.meetup.com/0xoposec
