@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<br>
 <div style="text-align: center;">
 <pre style="background-color=#ffffff;">
  ▒█████  ▒██   ██▒ ▒█████   ██▓███   ▒█████    ██████ ▓█████ ▄████▄
