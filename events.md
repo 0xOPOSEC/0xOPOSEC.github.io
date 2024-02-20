@@ -1,7 +1,8 @@
 ---
 layout: blog
 title: Events
+permalink: /events
 ---
 
 
-Events Mapping
+Events Mapping II
