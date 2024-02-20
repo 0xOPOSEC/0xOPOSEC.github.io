@@ -4,7 +4,7 @@ title: Talks (Dump)
 ---
 
 
-This page is dump for all presentations from the Meetup.  
+This page is dump for all presentations from the Meetup.
   
 **\[INIT\] - The Gathering**  
 [XXE and XEE detection](https://slides.com/anagomes/xxe-meetup) by Ana Gomes  
@@ -223,35 +223,43 @@ Challenge Write-up:
 **\[0x0F\] - The Virtual Meet**  
 [The Curious Case of a PDF and an MBR](https://www.dropbox.com/s/xhjvkw3c7lhkm1o/writeup_0xOPOSEC_0x0F_Polyglot_PDF_MBR_Bootloader.pdf?dl=1) by José Moreira  
   
-**\[0x4842443231\] - The Virtual Meet**  
-[Automated standard based security assessment for IoT](https://www.dropbox.com/s/mvojkfmrkv0ikzn/Thesis%20-%20Presentation%20-%20Oposec.pdf?dl=1) by André Cirne  
-[Edge Side Includes Injections](https://www.dropbox.com/s/v2dlhtg6izepuhn/Edge%20Side%20Include%20Injections.pdf?dl=1) by Rui Godinho  
-Challenge Write-up:  
-\- [By Inês](https://www.dropbox.com/s/g5vpxtsbtz5wyje/neuromancer-chall-oposec.pdf?dl=1)  
+**\[0x4842443231\] - The Virtual Meet**
+[Automated standard based security assessment for IoT](https://www.dropbox.com/s/mvojkfmrkv0ikzn/Thesis%20-%20Presentation%20-%20Oposec.pdf?dl=1) by André Cirne
+[Edge Side Includes Injections](https://www.dropbox.com/s/v2dlhtg6izepuhn/Edge%20Side%20Include%20Injections.pdf?dl=1) by Rui Godinho
+Challenge Write-up:
+\- [By Inês](https://www.dropbox.com/s/g5vpxtsbtz5wyje/neuromancer-chall-oposec.pdf?dl=1)
   
-**\[0xD4C3B2A1\] - The Virtual Meet**  
-[Vulnerabilidades em Equipamentos de Rede: Passado, Presente, Futuro?](https://www.dropbox.com/s/l5p961g9h1ebkud/Palestra.pdf?dl=1) by Pedro Ribeiro  
-Challenge Write-up:  
-\- [By Miguel](https://www.dropbox.com/s/vonkvh3r0mjv6fo/OPOSEC-CHALLENGE.pdf?dl=1)  
+**\[0xD4C3B2A1\] - The Virtual Meet**
+[Vulnerabilidades em Equipamentos de Rede: Passado, Presente, Futuro?](https://www.dropbox.com/s/l5p961g9h1ebkud/Palestra.pdf?dl=1) by Pedro Ribeiro
+Challenge Write-up:
+\- [By Miguel](https://www.dropbox.com/s/vonkvh3r0mjv6fo/OPOSEC-CHALLENGE.pdf?dl=1)
   
-**\[0x3433334d487a\] - The Virtual Meet**  
-[IO433 - From ramblings to DIY](https://www.dropbox.com/s/3gyezh5dp208z5g/IO433.pdf?dl=1) by Pedro Umbelino  
-Challenge Write-up:  
-\- [By Miguel Duarte](https://www.dropbox.com/s/r3if9teseoj605q/0xOPOSEC%20April%20Chall%202021%20Writeup.pdf?dl=1)  
+**\[0x3433334d487a\] - The Virtual Meet**
+[IO433 - From ramblings to DIY](https://www.dropbox.com/s/3gyezh5dp208z5g/IO433.pdf?dl=1) by Pedro Umbelino
+Challenge Write-up:
+\- [By Miguel Duarte](https://www.dropbox.com/s/r3if9teseoj605q/0xOPOSEC%20April%20Chall%202021%20Writeup.pdf?dl=1)
   
-**\[0x41757468\] - The Virtual Meet**  
-[(O)Auth Gone South](https://www.dropbox.com/s/eni91mgshtlghkl/oauth-attacks.pdf?dl=1) by César Silva  
+**\[0x41757468\] - The Virtual Meet**
+[(O)Auth Gone South](https://www.dropbox.com/s/eni91mgshtlghkl/oauth-attacks.pdf?dl=1) by César Silva
   
-**\[0xF09F8EA3\] - The Virtual Meet**  
-[Post-phishing automation with Muraena and NecroBrowser](https://www.dropbox.com/s/bne6zmcfqhdxrk3/The%20Next%20Generationof%20Phishing.pdf?dl=1) by Michele Orrù  
-Challenge Write-up:  
-\- [By Gustavo Pinto](https://www.dropbox.com/s/xviuwnlijpwk7tf/RBCD.pdf?dl=1)  
+**\[0xF09F8EA3\] - The Virtual Meet**
+[Post-phishing automation with Muraena and NecroBrowser](https://www.dropbox.com/s/bne6zmcfqhdxrk3/The%20Next%20Generationof%20Phishing.pdf?dl=1) by Michele Orrù
+Challenge Write-up:
+\- [By Gustavo Pinto](https://www.dropbox.com/s/xviuwnlijpwk7tf/RBCD.pdf?dl=1)
   
-**\[0x6B3873\] - The Virtual Meet**  
-[Kubernetes Security 101: Best Practices to Secure your Cluster](https://www.dropbox.com/s/jt1jw14fn0uvppo/Kubernetes%20Security%20101%20-%20Best%20Practices%20to%20Secure%20your%20Cluster.pdf?dl=1) by Magno Logan  
+**\[0x6B3873\] - The Virtual Meet**
+[Kubernetes Security 101: Best Practices to Secure your Cluster](https://www.dropbox.com/s/jt1jw14fn0uvppo/Kubernetes%20Security%20101%20-%20Best%20Practices%20to%20Secure%20your%20Cluster.pdf?dl=1) by Magno Logan
   
-**\[0x696E74656E743A2F2F\] - The Virtual Meet**  
-[Exploiting Deep Links in Android](https://www.dropbox.com/s/sr4kqoveoftzufo/Show%20%26%20Tell%20-%20Exploiting%20Deep%20Links%20in%20Android.pdf?dl=1) by Inês Martins  
+**\[0x696E74656E743A2F2F\] - The Virtual Meet**
+[Exploiting Deep Links in Android](https://www.dropbox.com/s/sr4kqoveoftzufo/Show%20%26%20Tell%20-%20Exploiting%20Deep%20Links%20in%20Android.pdf?dl=1) by Inês Martins
   
-**\[0x3C6E6F7363726970743E\] - The Virtual Meet**  
+**\[0x3C6E6F7363726970743E\] - The Virtual Meet**
 [mXSS in 2021 - One long solved problem?](https://www.dropbox.com/s/ahl7dxq64u4ou2s/mxss-in-2021-0x0P0.pdf?dl=1) by Dr.-Ing. Mario Heiderich
+
+**\[0x6C6461703A2F2F\] - The Virtual Meet**
+Pentesting Stories: From Web to DA in a few simple steps by Ricardo Almeida and Gustavo Pinto
+
+**\[0x6C6F63616C686F7374\] - The Virtual Meet**
+DNS Cache Snooping and its applications in 2̵0̵2̵1̵ 2022 by Luis Grangeia
+
+
