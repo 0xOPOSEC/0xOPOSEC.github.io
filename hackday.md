@@ -14,13 +14,13 @@
 Please select only one training session to attend, as they will be happening concurrently. The sign-up forms will stay open until we hit the training capacity, plus a waiting list in case any spots open up.
 
 
-**Title:** Hardware fault injection, MacGyver style!
-**Trainer:** Pedro Umbelino (@kripthor)
-**Duration:** 10:00 - 13:00 (3h)
-**Description:** In this session, we will introduce the attendees to hardware fault injection on a budget, MacGyver style. We will talk about fault injections in a presentation in the first part and go full hands on approach on the second part, doing EMFi and voltage glitching with hardware built from spare/cheap parts.
-**Requirements:** A laptop with a proper serial drivers installed. Hardware will be provided for the duration of the workshop. The laptop will be used to monitor live EMFi and voltage glitches, use at your own risk! If you can connect/program an arduino/esp32 you are probably good to go. Feel free to bring your hardware tools and favorite microcontrollers to glitch (if you can program it using the Arduino IDE or Platform IO, probably it is easy test).
-**Capacity:** Limited to 10 persons (5 groups of two).
-**Form:** https://bit.ly/HackDay-HardwareFaultInjection
+**Title:** Hardware fault injection, MacGyver style!   
+**Trainer:** Pedro Umbelino (@kripthor)   
+**Duration:** 10:00 - 13:00 (3h)   
+**Description:** In this session, we will introduce the attendees to hardware fault injection on a budget, MacGyver style. We will talk about fault injections in a presentation in the first part and go full hands on approach on the second part, doing EMFi and voltage glitching with hardware built from spare/cheap parts.   
+**Requirements:** A laptop with a proper serial drivers installed. Hardware will be provided for the duration of the workshop. The laptop will be used to monitor live EMFi and voltage glitches, use at your own risk! If you can connect/program an arduino/esp32 you are probably good to go. Feel free to bring your hardware tools and favorite microcontrollers to glitch (if you can program it using the Arduino IDE or Platform IO, probably it is easy test).   
+**Capacity:** Limited to 10 persons (5 groups of two).   
+**Form:** https://bit.ly/HackDay-HardwareFaultInjection   
 
 
 **Title:** WiFi - It's free real estate
