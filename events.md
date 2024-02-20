@@ -4,5 +4,4 @@ title: Events
 permalink: /events
 ---
 
-
-Events Mapping II
+Events summary by year...
