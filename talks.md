@@ -262,5 +262,25 @@ Pentesting Stories: From Web to DA in a few simple steps by Ricardo Almeida and 
 **\[0x6C6F63616C686F7374\] - The Virtual Meet**  
 DNS Cache Snooping and its applications in 2̵0̵2̵1̵ 2022 by Luis Grangeia  
 
+**\[0x6C6F67346A\] - The Virtual Meet**  
+Fighting Log4shell - Real Incident Walkthrough by João Morais and David Mendes  
 
+**\[0x737072696E67\] - The Virtual Meet**  
+Shifting Left at Enterprise Scale by Glenn Pegden  
 
+**\[0x00201A\] - The Virtual Meet**  
+Reversing Computer Peripherals - Free your Keyboard, Unleash the Colors by José Moreira  
+
+**\[0x636C6173734C6F61646572\] - The Virtual Meet**  
+Spring4Shell - A Deep Dive by Pedro Ribeiro  
+
+**\[0x54504D\] - The Virtual Meet**  
+Breaking Azure AD joined endpoints in zero-trust environments by Dirk-jan Mollema  
+
+**\[0x49524C\] - The Meet**  
+Ring! Ring! Who's there? Your data. by David Sopas and João Morais  
+The Fall of the Summer Challenge by Pedro Rodrigues  
+
+**\[0x584D4153\] - The Meet**  
+OWASP SAMM: Thoughts and Experiences by Duarte Monteiro  
+Rooting Devices && Prank Your Friends by José Moreira  
