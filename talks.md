@@ -284,3 +284,37 @@ The Fall of the Summer Challenge by Pedro Rodrigues
 **\[0x584D4153\] - The Meet**  
 OWASP SAMM: Thoughts and Experiences by Duarte Monteiro  
 Rooting Devices && Prank Your Friends by José Moreira  
+
+**\[0x4F53494E54\] - The Meet**  
+OSINT - Beware. Your data is out there by Pedro Vieira (Shell5)  
+Once Upon a Time a Xmas Challenge by The Crew  
+
+**\[0x5245636F6C6C61707365\] - The Meet**  
+Till REcollapse: Fuzzing the Web for Mysterious Bugs by André Baptista (@0xACB)  
+Celebrating 7 years of sharing! by Renato Rodrigues  
+
+**\[0x582D526179\] - The Meet**  
+The fine line between sharing and oversharing by Guilherme Scombatti (@scombatti)  
+Reversing my way into an infostealer Telegram chat group by Miguel Freitas (@)mfbie  
+
+**\[0x73656D67726570\] - The Meet**  
+Semgrep: The Open Source Tool for Finding Vulnerable Code by Duarte Duarte (@dduarte)  
+Av3rMed1a liberation story by José Moreira (@zezadas)  
+
+ØxＯＰＯＳɆＣHack Day!  
+
+**\[0x6261636B\] - The Meet**  
+Butchering The Pig Butchers by Miguel Santareno (@MiguelSantareno)  
+The Fall of the Summer Challenge by Renato Rodrigues  
+
+**\[0x73706F6F6B79\] - The Meet**  
+Beyond Directories - Breaking APIs by Guilherme Scombatti (@scombatti)  
+WiFi is Your Perimeter Too by Pedro Rodrigues (@darkcookie)  
+
+**\[0x53414D58\] - The Meet**  
+Prototype Pollution by Renato Rodrigues (@simps0n)  
+Where's the flag? Reverse engineering Flare On #12 Virtual Machine by Pedro Vilaça (@fG)  
+
+**\[0x696E69743234\] - The Meet**  
+Hardware Chips and Security by Jean François Mousinho (@jemos)  
+The Fall of the Xmas Challenge by Gustavo Pinto (@ArmySick)  
