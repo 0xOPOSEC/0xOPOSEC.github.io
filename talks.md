@@ -4,7 +4,7 @@ title: Talks (Dump)
 ---
 
 
-This page is dump for all presentations from the Meetup.
+This page serves as a repository for all presentations from the Meetup.
   
 **\[INIT\] - The Gathering**  
 [XXE and XEE detection](https://slides.com/anagomes/xxe-meetup) by Ana Gomes  
@@ -14,11 +14,11 @@ This page is dump for all presentations from the Meetup.
 **\[0x31\] - The Meet**  
 [Bug Bounties](https://slides.com/miguelregala/bug-bounties#/) by Miguel Regala (@fisher)  
 [Security Headers](https://slides.com/simpson/security-headers/) by Renato Rodrigues (@SiMpS0N)  
-[Terminal and Shell attacks: Targeting the Sysadmin](https://www.dropbox.com/s/pe19rb8fby6nhef/Terminal%20and%20Shell%20attacks%3A%20Targeting%20the%20Sysadmin.pdf?dl=1) ([Demos](https://www.dropbox.com/s/wes01lrbonm6cx9/Terminal%20and%20Shell%20attacks%3A%20Targeting%20the%20Sysadmin.zip?dl=1)) by Federico Bento  
+[Terminal and Shell attacks: Targeting the Sysadmin](https://www.dropbox.com/s/pe19rb8fby6nhef/Terminal%20and%20Shell%20attacks%3A%20Targeting%20the%20Sysadmin.pdf?dl=1) ([Demos](https://www.dropbox.com/s/wes01lrbonm6cx9/Terminal%20and%20Shell%20attacks%3A%20Targeting%20the%20Sysadmin.zip?dl=1)) by Federico Bento (@uid1000)  
   
 **\[0x32\] - The Meet**  
 [ZSUN Wifi Card Reader](https://slides.com/davidgouveia/zsun-wifi-card-reader#/) by David Gouveia (@zatarra)  
-[Mobile Security in iOS](https://www.dropbox.com/s/dfwo2b3n60wo8bx/Mobile%20Security%20in%20iOS.pdf?dl=1) by Herman Duarte  
+[Mobile Security in iOS](https://www.dropbox.com/s/dfwo2b3n60wo8bx/Mobile%20Security%20in%20iOS.pdf?dl=1) by Herman Duarte (@hdontwit)  
 [Challenge Solution](https://www.dropbox.com/s/5gpjiffx736jdk6/oposec-pwn.pdf?dl=1) by André Baptista (@0xACB)  
   
 **\[0x33\] - The Meet**  
@@ -269,7 +269,7 @@ Fighting Log4shell - Real Incident Walkthrough by João Morais (@jmoraissec) and
 Shifting Left at Enterprise Scale by Glenn Pegden  
 
 **\[0x00201A\] - The Virtual Meet**  
-Reversing Computer Peripherals - Free your Keyboard, Unleash the Colors by José Moreira  
+Reversing Computer Peripherals - Free your Keyboard, Unleash the Colors by José Moreira (@zezadas)  
 
 **\[0x636C6173734C6F61646572\] - The Virtual Meet**  
 Spring4Shell - A Deep Dive by Pedro Ribeiro  
