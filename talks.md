@@ -48,7 +48,7 @@ In Headers/ Padlocks / site Seals / CA’s we trust! by pipas
 [Challenge Solution](https://slides.com/duartemonteiro/php-mailer-vulnerability#/) by Duarte Monteiro (@d0kt0r)  
   
 **\[0x39\] - The Meet**  
-[Is there an EFI monster inside your apple?](https://www.dropbox.com/s/nn4wnvop2ypgwxz/Oposec%202017%20-%20Efi%20Monsters.pdf?dl=1) @fG!  
+[Is there an EFI monster inside your apple?](https://www.dropbox.com/s/nn4wnvop2ypgwxz/Oposec%202017%20-%20Efi%20Monsters.pdf?dl=1) Pedro Vilaça (@fG)  
 [RSA for CTF'ers](https://www.dropbox.com/s/2b8ow8x2mjjll35/Talk_OPOSEC.pdf?dl=1) ([Demos](https://www.dropbox.com/s/lfzcff2h40yxmim/Demos.zip?dl=1)) by José Sousa (@k414x) and Joana  
   
 **\[0x61\] - The Meet**  
@@ -61,7 +61,7 @@ In Headers/ Padlocks / site Seals / CA’s we trust! by pipas
   
 **\[0x63\] - The Meet**  
 Lessons from Billions of Breached Records by Troy Hunt  
-Knock knock, who's there? NSA! by fG!  
+Knock knock, who's there? NSA! by Pedro Vilaça (@fG)  
   
 **\[0x64\] - The Meet**  
 [Trust issues](https://www.dropbox.com/s/6zx4dt15t7niy28/Trust%20issues_final.pptx?dl=1) by pushdword  
@@ -69,7 +69,7 @@ Knock knock, who's there? NSA! by fG!
 
 **\[0x65\] - The Meet**  
 Browsers - For better or worse... by Renato Rodrigues (@SiMpS0N)  
-[Risk Based Assessment in CI/CD](https://www.dropbox.com/s/no7p3ambenxmbtr/arc_oposec.pdf?dl=1) by dduarte  
+[Risk Based Assessment in CI/CD](https://www.dropbox.com/s/no7p3ambenxmbtr/arc_oposec.pdf?dl=1) by Duarte Duarte (@dduarte)  
 [Summer Challenge A (Write-up)](https://www.dropbox.com/s/a7kaq2aucqayi0g/sum_challengeA_wriUp.pdf?dl=1) by António Pinto (@aap)  
 [Summer Challenge B (Solution)](https://github.com/joselimas/0kauth/tree/master/solution) by José Sousa (@k414x)  
   
@@ -139,7 +139,7 @@ Challenge Write-ups:
   
 **\[0x71\] - The Meet**  
 [Assuma o controlo total da sua casa numa só aplicação - EDP IoT 101](https://www.dropbox.com/s/uoqbnlkvicxlj4h/EDP%20101.pdf?dl=1) by Luís Catarino and Pedro Rodrigues (@darkcookie)  
-[Insecure Deserialization 101](https://slides.com/apl3b/deserialization-35/?token=hDJFVzs9#/) by @csilva  
+[Insecure Deserialization 101](https://slides.com/apl3b/deserialization-35/?token=hDJFVzs9#/) by César Silva  
 Challenge Write-up:  
 \- [By Vibrio](https://gist.github.com/ricardojba/7c5503bb04fd3bcc566308d13e978bd7)  
   
@@ -162,7 +162,7 @@ Golden Chickens & Malware-as-a-Service by Tiago Marques
   
 **\[0x75\] - The Meet**  
 [Blockchain, A security perspective](https://www.dropbox.com/s/heb7spszmvtp2xc/Blokchain-A_Security_Perspective.pdf?dl=1) by António Pinto (@aap)  
-Bounty Life by (@)andrebaptista  
+Bounty Life by André Baptista (@0xACB)  
 Challenge Write-up:  
 \- [By aap](https://www.dropbox.com/s/mx5y2fvrwyj88vs/challenge-writeup.pdf?dl=1)  
 \- [By JPDias](https://jpdias.me/infosec/iot/2019/06/30/oposecjunechallenge.html)  
@@ -173,8 +173,8 @@ Challenge Write-up:
 Hacking your cable modem by Local Underground Greyhat  
   
 **\[0x77\] - The Meet**  
-[The Fall of the Summer Challenge](https://www.dropbox.com/s/wj81z0zpivg8t5s/Fall%20of%20the%20Summer%20Challenge.pdf?dl=1) by (@)nunohumberto, (@)ArmySick and (@)csilva  
-Hacking your cable modem - Part 2 by (@)fG  
+[The Fall of the Summer Challenge](https://www.dropbox.com/s/wj81z0zpivg8t5s/Fall%20of%20the%20Summer%20Challenge.pdf?dl=1) by (@)nunohumberto, Gustavo Pinto (@ArmySick) and César Silva  
+Hacking your cable modem - Part 2 by Pedro Vilaça (@fG)  
   
 **\[0x78\] - The Meet**  
 [Surf the new wave!](https://slides.com/guilhermescombatti/deck-2-0fe562#/) by Guilherme Scombatti (@scombatti)  
@@ -191,7 +191,7 @@ Challenge Write-up:
 **\[0x7A\] - The Meet**  
 [4th Anniversary Celebration](https://slides.com/simpson/0xoposec-feb20?token=xkjK1bHp)  
 [Automating Web Software Version Auditing with WVAT](https://wvat-presentation.ruialves.me/) by Rui Alves  
-[Angular xsS](https://slides.com/bbsteps/xss-in-angular-js#/) by (@)godi469  
+[Angular xsS](https://slides.com/bbsteps/xss-in-angular-js#/) by Rui Godinho  
 Challenge Write-up:  
 \- [Solvers](https://pathonproject.com/0x7a.txt)  
 \- [By Nuno Humberto](https://pathonproject.com/0x7a.png)  
