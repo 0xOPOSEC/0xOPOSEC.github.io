@@ -34,11 +34,11 @@ Live Streaming Security: Inner Security and Anti Leeching Tips by Deluxor
 [Hacking World 101](https://slides.com/miguelregala/hacking101-history) by Miguel Regala (@fisher)  
   
 **\[0x36\] - The Meet**  
-[Ransomware 101: Threats & Countermeasures](https://www.dropbox.com/s/pwxgjp6ufe4w7e6/Ransomware%20101.pptx?dl=1) by netshark  
+[Ransomware 101: Threats & Countermeasures](https://www.dropbox.com/s/pwxgjp6ufe4w7e6/Ransomware%20101.pptx?dl=1) by Alexandre Ferreira (@netshark)  
 In Headers/ Padlocks / site Seals / CA’s we trust! by pipas  
   
 **\[0x37\] - The Meet**  
-[OSSIM, the Open Source Security Information Management](https://www.dropbox.com/s/mj9g7gbr9barusx/OSSIM.pptx?dl=1) by Netshark  
+[OSSIM, the Open Source Security Information Management](https://www.dropbox.com/s/mj9g7gbr9barusx/OSSIM.pptx?dl=1) by Alexandre Ferreira (@netshark)  
 [(a primer on) General Data Protection Regulation](https://www.dropbox.com/s/octxjyxc9z85xlm/oposec_gdpr.pdf?dl=1) by António Pinto (@aap)  
   
 **\[0x38\] - The Meet**  
@@ -53,7 +53,7 @@ In Headers/ Padlocks / site Seals / CA’s we trust! by pipas
   
 **\[0x61\] - The Meet**  
 [CrackMe Up: An Introduction To Binary Reverse Engineering](https://www.dropbox.com/s/tyybt546fzcdnyd/0xOPOSEC-CrackMe-Up-0xACB.pdf?dl=1) by André Baptista (@0xACB)  
-[Nagios monitoring FTW, an 11km look](https://www.dropbox.com/s/zdg0r25vk07dwuj/Nagios.pptx?dl=1) by Netshark  
+[Nagios monitoring FTW, an 11km look](https://www.dropbox.com/s/zdg0r25vk07dwuj/Nagios.pptx?dl=1) by Alexandre Ferreira (@netshark)  
   
 **\[0x62\] - The Meet**  
 [Don't Stand So Close To Me RFID/NFC Cloning](https://drive.google.com/open?id=0B_gUSqJ9eHamRV9OeG5ieEpjMWM) by Pedro Cabral  
@@ -65,10 +65,10 @@ Knock knock, who's there? NSA! by fG!
   
 **\[0x64\] - The Meet**  
 [Trust issues](https://www.dropbox.com/s/6zx4dt15t7niy28/Trust%20issues_final.pptx?dl=1) by pushdword  
-[From zero to something, with HackRF](https://www.dropbox.com/s/5owjtd7959qm293/From%20zero%20to%20something%2C%20with%20HackRF.pdf?dl=1) by zezadas  
+[From zero to something, with HackRF](https://www.dropbox.com/s/5owjtd7959qm293/From%20zero%20to%20something%2C%20with%20HackRF.pdf?dl=1) by José Moreira (@zezadas)  
 
 **\[0x65\] - The Meet**  
-Browsers - For better or worse... by simps0n  
+Browsers - For better or worse... by Renato Rodrigues (@SiMpS0N)  
 [Risk Based Assessment in CI/CD](https://www.dropbox.com/s/no7p3ambenxmbtr/arc_oposec.pdf?dl=1) by dduarte  
 [Summer Challenge A (Write-up)](https://www.dropbox.com/s/a7kaq2aucqayi0g/sum_challengeA_wriUp.pdf?dl=1) by António Pinto (@aap)  
 [Summer Challenge B (Solution)](https://github.com/joselimas/0kauth/tree/master/solution) by José Sousa (@k414x)  
@@ -126,7 +126,7 @@ Briareos, a Modular Framework for Elastic Intrusion Detection and Prevention by 
 [SDR Challenge Write-up](https://github.com/zezadas/pypocsag/blob/master/challenge/0x6F_0xOPOSEC_CHALLENGE.pdf) By José Moreira (@zezadas)  
   
 **\[0x6G\] - The Overflow**  
-[From Crash to Win!](https://slides.com/apl3b/from-crash-to-win/fullscreen?token=qfQfRKub#/) by Guilherme Scombatti and César Silva  
+[From Crash to Win!](https://slides.com/apl3b/from-crash-to-win/fullscreen?token=qfQfRKub#/) by Guilherme Scombatti (@scombatti) and César Silva  
 Using supply chain attacks for software dependencies to spread malicious code in the wild. by Preben Ver Eecke, Jelle Criel and Timothy Van Heddegem  
   
 **\[0x70\] - The Meet**  
@@ -158,7 +158,7 @@ Challenge Write-up:
 **\[0x74\] - The Meet**  
 [Who are you talking to?! Analyzing Android applications with Frida](https://www.dropbox.com/s/j1nb6nrsmj2dwpj/Analyzing%20Android%20applications%20with%20Frida.pdf?dl=1) by Pedro Rodrigues (@darkcookie)  
 Golden Chickens & Malware-as-a-Service by Tiago Marques  
-[Challenge Write-up](https://www.dropbox.com/s/4mlal5dgbfu1y9f/0x74-write-up.pdf?dl=1) by (@)jmoraissec  
+[Challenge Write-up](https://www.dropbox.com/s/4mlal5dgbfu1y9f/0x74-write-up.pdf?dl=1) by João Morais (@jmoraissec)  
   
 **\[0x75\] - The Meet**  
 [Blockchain, A security perspective](https://www.dropbox.com/s/heb7spszmvtp2xc/Blokchain-A_Security_Perspective.pdf?dl=1) by António Pinto (@aap)  
@@ -177,8 +177,8 @@ Hacking your cable modem by Local Underground Greyhat
 Hacking your cable modem - Part 2 by (@)fG  
   
 **\[0x78\] - The Meet**  
-[Surf the new wave!](https://slides.com/guilhermescombatti/deck-2-0fe562#/) by (@)scombatti  
-[Post domain admin exploitation in Office 365 environments](https://www.dropbox.com/s/ha36p12apy24775/oposec.pdf?dl=1) by (@)mfbie  
+[Surf the new wave!](https://slides.com/guilhermescombatti/deck-2-0fe562#/) by Guilherme Scombatti (@scombatti)  
+[Post domain admin exploitation in Office 365 environments](https://www.dropbox.com/s/ha36p12apy24775/oposec.pdf?dl=1) by Miguel Freitas (@mfbie)  
 Challenge Write-up:  
 \- [By Zezadas](https://www.dropbox.com/s/nh5thnkf8igarb9/%5B0x78%5D_0xOPOSEC_CHALLENGE_ANDROID_WEBVIEW_BOF.pdf?dl=1)  
   
@@ -205,7 +205,7 @@ Challenge Write-up:
 [The approach that made me find 5 Wordpress 0days](https://www.dropbox.com/s/cvwwqnigsqcvc3q/Portugal%20Meetup.pdf?dl=1) by Simon Scannell  
   
 **\[0x0C\] - The Virtual Meet**  
-[Get in, Drop the Implant and GTFO](https://www.dropbox.com/s/nmfqcdqpk3na27v/Get%20In%2C%20Drop%20the%20Implant%20and%20GTFO.pdf?dl=1) by David Sopas  
+[Get in, Drop the Implant and GTFO](https://www.dropbox.com/s/nmfqcdqpk3na27v/Get%20In%2C%20Drop%20the%20Implant%20and%20GTFO.pdf?dl=1) by David Sopas (@dsopas)  
 [The Fall of the Summer Challenge](https://www.dropbox.com/s/zo5hdwte68t9h1d/0xOPOSEC%20Summer%20Challenge%202020.pdf?dl=1) by Nuno Humberto  
 0xOPOSEC Summer Challenge Write-ups:  
 \- [By JPDias](https://jpdias.me/infosec/ctf/2020/09/23/oposec_summer_2020.html)  
@@ -235,7 +235,7 @@ Challenge Write-up:
 \- [By Miguel](https://www.dropbox.com/s/vonkvh3r0mjv6fo/OPOSEC-CHALLENGE.pdf?dl=1)  
   
 **\[0x3433334d487a\] - The Virtual Meet**  
-[IO433 - From ramblings to DIY](https://www.dropbox.com/s/3gyezh5dp208z5g/IO433.pdf?dl=1) by Pedro Umbelino  
+[IO433 - From ramblings to DIY](https://www.dropbox.com/s/3gyezh5dp208z5g/IO433.pdf?dl=1) by Pedro Umbelino (@kripthor)  
 Challenge Write-up:  
 \- [By Miguel Duarte](https://www.dropbox.com/s/r3if9teseoj605q/0xOPOSEC%20April%20Chall%202021%20Writeup.pdf?dl=1)  
   
@@ -263,7 +263,7 @@ Pentesting Stories: From Web to DA in a few simple steps by Ricardo Almeida (@vi
 DNS Cache Snooping and its applications in 2̵0̵2̵1̵ 2022 by Luis Grangeia  
 
 **\[0x6C6F67346A\] - The Virtual Meet**  
-Fighting Log4shell - Real Incident Walkthrough by João Morais and David Mendes  
+Fighting Log4shell - Real Incident Walkthrough by João Morais (@jmoraissec) and David Mendes  
 
 **\[0x737072696E67\] - The Virtual Meet**  
 Shifting Left at Enterprise Scale by Glenn Pegden  
@@ -278,7 +278,7 @@ Spring4Shell - A Deep Dive by Pedro Ribeiro
 Breaking Azure AD joined endpoints in zero-trust environments by Dirk-jan Mollema  
 
 **\[0x49524C\] - The Meet**  
-Ring! Ring! Who's there? Your data. by David Sopas and João Morais  
+Ring! Ring! Who's there? Your data. by David Sopas (@dsopas) and João Morais (@jmoraissec)  
 The Fall of the Summer Challenge by Pedro Rodrigues (@darkcookie)  
 
 **\[0x584D4153\] - The Meet**  
@@ -295,7 +295,7 @@ Celebrating 7 years of sharing! by Renato Rodrigues (@SiMpS0N)
 
 **\[0x582D526179\] - The Meet**  
 The fine line between sharing and oversharing by Guilherme Scombatti (@scombatti)  
-Reversing my way into an infostealer Telegram chat group by Miguel Freitas (@)mfbie  
+Reversing my way into an infostealer Telegram chat group by Miguel Freitas (@mfbie)  
 
 **\[0x73656D67726570\] - The Meet**  
 Semgrep: The Open Source Tool for Finding Vulnerable Code by Duarte Duarte (@dduarte)  
