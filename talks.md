@@ -27,7 +27,7 @@ This page serves as a repository for all presentations from the Meetup.
   
 **\[0x34\] - The Meet**  
 [Template Injection 101](https://slides.com/miguelregala/template-injection-3) by Miguel Regala (@fisher)  
-Live Streaming Security: Inner Security and Anti Leeching Tips by Deluxor  
+Live Streaming Security: Inner Security and Anti Leeching Tips by Joao Duarte (@Deluxor)  
   
 **\[0x35\] - The Meet**  
 [SSRF.. aka.. how to pierce perimeter defences like a boss!!!"](https://github.com/ricardojba/0xOPOSEC) by Ricardo Almeida (@vibrio)  
