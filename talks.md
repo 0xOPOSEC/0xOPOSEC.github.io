@@ -325,3 +325,8 @@ Challenge Write-up:
 [Celebrating 8 years of sharing!](https://www.dropbox.com/scl/fi/7dk7y7rx4844zmgag3iez/Celebrating-8-years-of-sharing.pdf?rlkey=6ezh0fbuiqn0880gb166sycuh&dl=1) by Renato Rodrigues (@SiMpS0N)  
 [How I stay hidden in your network](https://www.dropbox.com/scl/fi/sksa5br6t7du00r1pv0j1/How-I-stay-hidden-in-your-network.pdf?rlkey=oe1hzbjmc7rwx6uwkta5mxmfo&dl=1) by Mario Lima (@comet)  
 [Abusing Windows Privileged File Operations](https://www.dropbox.com/scl/fi/waq8zqecmketjlvb1t3x7/Abusing-Windows-Privileged-File-Operations.pdf?rlkey=s9459fiwg8kr5nke7ai026cs3&dl=1) by Ricardo Almeida (@vibrio)  
+
+**\[0x626F6F74686F6C65\] - The Meet**  
+[Test Drive - The Challenges of Race Conditions in Security Testing](https://www.dropbox.com/scl/fi/0wesv4t8aqaymlvg3ngi0/Test-Drive-The-Challenges-of-Race-Conditions-in-Security-Testing-by-Bruno-Caseiro.pdf?rlkey=j4tgz4ewfxkmjpqipcthzkp2g&dl=1) by Bruno Caseiro (@Bruno Caseiro)  
+[Unpatchable arbitrary code execution on the NVIDIA Tegra X1 SoC (and the Nintendo Switch)](https://www.dropbox.com/scl/fi/0osi2eq5z6o2xh22uvafx/Unpatchable-arbitrary-code-execution-on-the-NVIDIA-Tegra-X1-SoC-and-the-Nintendo-Switch-by-Marco-Carneiro.pdf?rlkey=dnv34jp1z2v6laez8ndwlvjei&dl=1) by Marco Carneiro (@quietsolitude)  
+[Challenge Write-up](https://www.dropbox.com/scl/fi/w0r38nxexcn6va03qqxpi/Challenge-Write-up-by-Nuno-Humberto.mp4?rlkey=031xj9ixyckcty6yweamxj7t2&dl=1) by Nuno Humberto (@nunohumberto)  
