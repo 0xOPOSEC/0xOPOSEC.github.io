@@ -330,3 +330,7 @@ Challenge Write-up:
 [Test Drive - The Challenges of Race Conditions in Security Testing](https://www.dropbox.com/scl/fi/0wesv4t8aqaymlvg3ngi0/Test-Drive-The-Challenges-of-Race-Conditions-in-Security-Testing-by-Bruno-Caseiro.pdf?rlkey=j4tgz4ewfxkmjpqipcthzkp2g&dl=1) by Bruno Caseiro (@Bruno Caseiro)  
 [Unpatchable arbitrary code execution on the NVIDIA Tegra X1 SoC (and the Nintendo Switch)](https://www.dropbox.com/scl/fi/0osi2eq5z6o2xh22uvafx/Unpatchable-arbitrary-code-execution-on-the-NVIDIA-Tegra-X1-SoC-and-the-Nintendo-Switch-by-Marco-Carneiro.pdf?rlkey=dnv34jp1z2v6laez8ndwlvjei&dl=1) by Marco Carneiro (@quietsolitude)  
 [Challenge Write-up](https://www.dropbox.com/scl/fi/w0r38nxexcn6va03qqxpi/Challenge-Write-up-by-Nuno-Humberto.mp4?rlkey=031xj9ixyckcty6yweamxj7t2&dl=1) by Nuno Humberto (@nunohumberto)  
+
+**\[0x626C6F6F6D\] - The Meet**  
+[Helium Data Recovery and Wild Wild West SSD Techniques](https://www.dropbox.com/scl/fi/9oscvn1y48feehjxbjrlv/Helium-Data-Recovery-and-Wild-Wild-West-SSD-Techniques-by-Miguel-Oliveira-datadrug.pdf?rlkey=phd8mtdb6l8fxg40g584pw936&st=jf8stidr&dl=1) by Miguel Oliveira (@datadrug)  
+[A Collection of Great Security Issues](https://www.dropbox.com/scl/fi/fp5cgnj2wnoznrwd2x79q/A-Collection-of-Great-Security-Issues-by-Nuno-Humberto-nunohumberto.pdf?rlkey=4kcpw40xjthok1djupb0r1x7t&st=mzwlcl5p&dl=1) by Nuno Humberto (@nunohumberto)  
