@@ -334,3 +334,7 @@ Challenge Write-up:
 **\[0x626C6F6F6D\] - The Meet**  
 [Helium Data Recovery and Wild Wild West SSD Techniques](https://www.dropbox.com/scl/fi/9oscvn1y48feehjxbjrlv/Helium-Data-Recovery-and-Wild-Wild-West-SSD-Techniques-by-Miguel-Oliveira-datadrug.pdf?rlkey=phd8mtdb6l8fxg40g584pw936&st=jf8stidr&dl=1) by Miguel Oliveira (@datadrug)  
 [A Collection of Great Security Issues](https://www.dropbox.com/scl/fi/fp5cgnj2wnoznrwd2x79q/A-Collection-of-Great-Security-Issues-by-Nuno-Humberto-nunohumberto.pdf?rlkey=4kcpw40xjthok1djupb0r1x7t&st=mzwlcl5p&dl=1) by Nuno Humberto (@nunohumberto)  
+
+**\[0x2E2E2F2E2E2F76343034\] - The Meet**  
+Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity by João Pedro Dias (@jpdias)  
+[A Bug Bounty Journey](https://www.dropbox.com/scl/fi/atz815sdv8kfse0ow3rw8/A-Bug-Bounty-Journey.pdf?rlkey=z15xwn1cju2ear1kubkii22vq&st=0n2de3xq&dl=1) by Guilherme Scombatti (@scombatti)  
