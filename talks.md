@@ -338,3 +338,7 @@ Challenge Write-up:
 **\[0x2E2E2F2E2E2F76343034\] - The Meet**  
 Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity by João Pedro Dias (@jpdias)  
 [A Bug Bounty Journey](https://www.dropbox.com/scl/fi/atz815sdv8kfse0ow3rw8/A-Bug-Bounty-Journey.pdf?rlkey=z15xwn1cju2ear1kubkii22vq&st=0n2de3xq&dl=1) by Guilherme Scombatti (@scombatti)  
+
+**\[0x496E666563746564\] - The Meet**  
+[Turnkey Code – Enhancing Secrets Management in Large Scale Organizations](https://www.dropbox.com/scl/fi/stxbejlndru4j7fv75y4i/Turnkey-Code-0x496E666563746564-by-Diogo-Lemos.pdf?rlkey=8woquiv0xj6zormqa3vhj0js4&st=3esn0lf9&dl=1) by Diogo Lemos (@Diogo Lemos)  
+[Modern Malware Development](https://www.dropbox.com/scl/fi/296v6b0o3ugnpcrs5dm0e/Modern-Malware-Development-by-Rodrigo-Lima.pdf?rlkey=gda9vd6m7ixdozzavp7h8my3q&st=h2fx1ci6&dl=1) by Rodrigo Lima (@Pengrey)  
