@@ -4,4 +4,4 @@ title: Events
 permalink: /events
 ---
 
-Events summary by year...
+Events summary by year. Work in Progress!
