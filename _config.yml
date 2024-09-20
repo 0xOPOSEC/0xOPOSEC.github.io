@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: ØxＯＰＯＳɆＣ Mɇɇtuᵽ
+title: ØxＯＰＯＳɆＣ
 description: More than breaking through challenges, it is all about sharing the knowledge.
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://0xoposec.github.io" # the base hostname & protocol for your site
@@ -61,4 +61,4 @@ events: /events
 talks: /talks
 slack: https://bit.ly/3XbyGQu
 cfp: https://bit.ly/0xOPOSECTalks
-meetup: https://www.meetup.com/0xoposec
+kommunity: https://kommunity.com/0xoposec/about
