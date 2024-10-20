@@ -342,3 +342,11 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 **\[0x496E666563746564\] - The Meet**  
 [Turnkey Code – Enhancing Secrets Management in Large Scale Organizations](https://www.dropbox.com/scl/fi/stxbejlndru4j7fv75y4i/Turnkey-Code-0x496E666563746564-by-Diogo-Lemos.pdf?rlkey=8woquiv0xj6zormqa3vhj0js4&st=3esn0lf9&dl=1) by Diogo Lemos (@Diogo Lemos)  
 [Modern Malware Development](https://www.dropbox.com/scl/fi/296v6b0o3ugnpcrs5dm0e/Modern-Malware-Development-by-Rodrigo-Lima.pdf?rlkey=gda9vd6m7ixdozzavp7h8my3q&st=h2fx1ci6&dl=1) by Rodrigo Lima (@Pengrey)  
+
+**\[0x636F6D656261636B\] - The Meet**  
+[We build it up, to bring it back down](https://www.dropbox.com/scl/fi/stxbejlndru4j7fv75y4i/Turnkey-Code-0x496E666563746564-by-Diogo-Lemos.pdf?rlkey=8woquiv0xj6zormqa3vhj0js4&st=3esn0lf9&dl=1) by Pedro Rodrigues (@darkcookie)  
+[The Fall of the Summer Challenge](https://www.dropbox.com/scl/fi/296v6b0o3ugnpcrs5dm0e/Modern-Malware-Development-by-Rodrigo-Lima.pdf?rlkey=gda9vd6m7ixdozzavp7h8my3q&st=h2fx1ci6&dl=1) by Gustavo Pinto (@ArmySick)  
+
+**\[0x50574E5F46545721\] - The Meet**  
+[Sandbox Escape: Achieving Arbitrary Code Execution](#) by (@)Duarte Santos  
+[A Story Behind a Compromised Domain](#) by Tiago Dias (@td00k) and Renato Cruz (@b1tch0k3r)  
