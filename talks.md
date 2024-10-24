@@ -348,5 +348,5 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 [The Fall of the Summer Challenge](https://www.dropbox.com/scl/fi/296v6b0o3ugnpcrs5dm0e/Modern-Malware-Development-by-Rodrigo-Lima.pdf?rlkey=gda9vd6m7ixdozzavp7h8my3q&st=h2fx1ci6&dl=1) by Gustavo Pinto (@ArmySick)  
 
 **\[0x50574E5F46545721\] - The Meet**  
-[Sandbox Escape: Achieving Arbitrary Code Execution](#) by (@)Duarte Santos  
-[A Story Behind a Compromised Domain](#) by Tiago Dias (@td00k) and Renato Cruz (@b1tch0k3r)  
+[Sandbox Escape: Achieving Arbitrary Code Execution](https://www.dropbox.com/scl/fi/18us6w6hbcj0704ns46nh/Sandbox-Escape-Achieving-Arbitrary-Code-Execution-by-Duarte-Santos.pdf?rlkey=bqsy8hoe3h457hhn112f5le06&st=0akw6nb2&dl=1) by (@)Duarte Santos  
+[A Story Behind a Compromised Domain](https://www.dropbox.com/scl/fi/z1r3rfgzhsxoh697b7omu/A-Story-Behind-a-Compromised-Domain-by-Tiago-Dias-and-Renato-Cruz.pdf?rlkey=snimu2laxwrxey168wx9t73ql&st=g6tvogfy&dl=1) by Tiago Dias (@td00k) and Renato Cruz (@b1tch0k3r)  
