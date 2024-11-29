@@ -350,3 +350,7 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 **\[0x50574E5F46545721\] - The Meet**  
 [Sandbox Escape: Achieving Arbitrary Code Execution](https://www.dropbox.com/scl/fi/18us6w6hbcj0704ns46nh/Sandbox-Escape-Achieving-Arbitrary-Code-Execution-by-Duarte-Santos.pdf?rlkey=bqsy8hoe3h457hhn112f5le06&st=0akw6nb2&dl=1) by (@)Duarte Santos  
 [A Story Behind a Compromised Domain](https://www.dropbox.com/scl/fi/z1r3rfgzhsxoh697b7omu/A-Story-Behind-a-Compromised-Domain-by-Tiago-Dias-and-Renato-Cruz.pdf?rlkey=snimu2laxwrxey168wx9t73ql&st=g6tvogfy&dl=1) by Tiago Dias (@td00k) and Renato Cruz (@b1tch0k3r)  
+
+**\[0x454F4632303234\] - The Meet**  
+[LLMs, BOLA and other Authorization Problems: a Dissertation Story](https://www.dropbox.com/scl/fi/5bbp7bik6o8cg2pd3o6x6/LLMs-BOLA-and-other-Authorization-Problems-a-Dissertation-Story-by-Eunice-Juliana-Amorim-0xbugphant.pdf?rlkey=1lqic6q0w8rciskxj4u39cg3k&st=hf9n0iuq&dl=1) by Eunice Juliana Amorim (@0xbugphant)  
+[Rescuing the FLARE Intergalactic HQ with Linux forensic analysis aka 2024's Flare-On #5!](https://www.dropbox.com/scl/fi/ov9ln9us5i9fbii63a26y/Rescuing-the-FLARE-Intergalactic-HQ-with-Linux-forensic-analysis-aka-2024-s-Flare-On-5-by-Pedro-Vila-a-fG.pdf?rlkey=g2iiabx5jj4obhlgu82gxoxeg&st=5s4lnw35&dl=1) by Pedro Vilaça (@fG)  
