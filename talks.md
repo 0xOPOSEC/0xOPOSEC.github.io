@@ -354,3 +354,8 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 **\[0x454F4632303234\] - The Meet**  
 [LLMs, BOLA and other Authorization Problems: a Dissertation Story](https://www.dropbox.com/scl/fi/5bbp7bik6o8cg2pd3o6x6/LLMs-BOLA-and-other-Authorization-Problems-a-Dissertation-Story-by-Eunice-Juliana-Amorim-0xbugphant.pdf?rlkey=1lqic6q0w8rciskxj4u39cg3k&st=hf9n0iuq&dl=1) by Eunice Juliana Amorim (@0xbugphant)  
 [Rescuing the FLARE Intergalactic HQ with Linux forensic analysis aka 2024's Flare-On #5!](https://www.dropbox.com/scl/fi/ov9ln9us5i9fbii63a26y/Rescuing-the-FLARE-Intergalactic-HQ-with-Linux-forensic-analysis-aka-2024-s-Flare-On-5-by-Pedro-Vila-a-fG.pdf?rlkey=g2iiabx5jj4obhlgu82gxoxeg&st=5s4lnw35&dl=1) by Pedro Vilaça (@fG)  
+
+**\[0x76392E393939\] - The Meet**  
+[A Brief History of the Playstation Scenes](https://www.dropbox.com/scl/fi/becx4lrihdlad22vyq55g/A-Brief-History-of-the-Playstation-Scenes-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=e1vbdp8d7jscqx16uceblwcls&st=qv6v4m7e&dl=1) by José Coixão (@José Coixão)  
+[The Parking Chronicles - A DIY Guide to Controller Detection](#) by David Sopas (@dsopas)  
+[The End of the Winter Challenge](https://www.dropbox.com/scl/fi/3zmbi5lu3rmmk8aq8pt2z/The-End-of-the-Winter-Challenge-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=ahsn4y4xnrraf7gci4k48wt6e&st=3bevwo3s&dl=1) by Pedro Rodrigues (@darkcookie)  
