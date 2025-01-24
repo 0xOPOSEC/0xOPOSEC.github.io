@@ -357,5 +357,5 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 
 **\[0x76392E393939\] - The Meet**  
 [A Brief History of the Playstation Scenes](https://www.dropbox.com/scl/fi/becx4lrihdlad22vyq55g/A-Brief-History-of-the-Playstation-Scenes-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=e1vbdp8d7jscqx16uceblwcls&st=qv6v4m7e&dl=1) by José Coixão (@José Coixão)  
-[The Parking Chronicles - A DIY Guide to Controller Detection](#) by David Sopas (@dsopas)  
+The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@dsopas)  
 [The End of the Winter Challenge](https://www.dropbox.com/scl/fi/3zmbi5lu3rmmk8aq8pt2z/The-End-of-the-Winter-Challenge-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=ahsn4y4xnrraf7gci4k48wt6e&st=3bevwo3s&dl=1) by Pedro Rodrigues (@darkcookie)  
