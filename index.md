@@ -4,7 +4,7 @@ title: Home
 ---
 
 <br>
-<div style="text-align: center;">
+<div class="center">
     <pre style="background-color=#ffffff;">
      ▒█████  ▒██   ██▒ ▒█████   ██▓███   ▒█████    ██████ ▓█████ ▄████▄
     ▒██▒  ██▒▒▒ █ █ ▒░▒██▒  ██▒▓██░  ██ ▒██▒  ██▒▒██    ▒ ▓█   ▀▒██▀ ▀█
