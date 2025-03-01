@@ -359,3 +359,8 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 [A Brief History of the Playstation Scenes](https://www.dropbox.com/scl/fi/becx4lrihdlad22vyq55g/A-Brief-History-of-the-Playstation-Scenes-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=e1vbdp8d7jscqx16uceblwcls&st=qv6v4m7e&dl=1) by José Coixão (@José Coixão)  
 The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@dsopas)  
 [The End of the Winter Challenge](https://www.dropbox.com/scl/fi/3zmbi5lu3rmmk8aq8pt2z/The-End-of-the-Winter-Challenge-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=ahsn4y4xnrraf7gci4k48wt6e&st=3bevwo3s&dl=1) by Pedro Rodrigues (@darkcookie)  
+
+**\[0x39F09FA5B3\] - The Meet**  
+[Celebrating 9 years of sharing!](https://www.dropbox.com/scl/fi/qwax2i2pv8n1rq9sm3d1r/Celebrating-9-years-of-sharing-by-Renato-Rodrigues.pdf?rlkey=h1a070vcmfv5c9c2mdizznllc&st=vsu606jq&dl=1) by Renato Rodrigues (@SiMpS0N)  
+[The Bad Side Of Client Side](https://www.dropbox.com/scl/fi/m0fiam1cnu5t5rhim9nza/The-Bad-Side-Of-Client-Side-by-Rodrigo-Lima.pdf?rlkey=6rvi4uxyr0f1plt7yxayg1lrk&st=x2imol07&dl=1) by Rodrigo Lima (@Pengrey)  
+[Over-the-Air, Under-the-Radar: SIM Card Exploits Overview](https://www.dropbox.com/scl/fi/9tahw26831na13eeak4ln/Over-the-Air-Under-the-Radar-by-Duarte-Monteiro.pdf?rlkey=x6nfitfpqzh482xzpaxj07wxt&st=slk2f3wh&dl=1) by Duarte Monteiro (@d0kt0r)  
