@@ -366,6 +366,6 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 [Over-the-Air, Under-the-Radar: SIM Card Exploits Overview](https://www.dropbox.com/scl/fi/9tahw26831na13eeak4ln/Over-the-Air-Under-the-Radar-by-Duarte-Monteiro.pdf?rlkey=x6nfitfpqzh482xzpaxj07wxt&st=slk2f3wh&dl=1) by Duarte Monteiro (@d0kt0r)  
 
 **\[0x48695F4D617374657221\] - The Meet**  
-[No Bluesh*t - A keynote about building a decent SOC]() by Miguel Freitas (@mbie)  
+No Bluesh*t - A keynote about building a decent SOC by Miguel Freitas (@mbie)  
 [Breaking the Bot](https://www.dropbox.com/scl/fi/ho71xgf8rc5ass09tx26m/Breaking-the-Bot-by-Guilherme-Scombatti.pdf?rlkey=deoq7l4355wb69armnztwdqzc&st=fxnjxd6s&dl=1) by Guilherme Scombatti (@scombatti)  
-[Challenge Write-Up by Ricardo Almeida](https://www.dropbox.com/scl/fi/9bt55lbg03425d78n7xw0/0xOPOSEC-Challenge-Write-Up-by-Ricardo-Almeida.pdf?rlkey=60haxq4zoru1vr89dtl6d47lw&st=b2w6r82s&dl=1) by Ricardo Almeida (@d0kt0r)  
+[Challenge Write-Up by Ricardo Almeida](https://www.dropbox.com/scl/fi/9bt55lbg03425d78n7xw0/0xOPOSEC-Challenge-Write-Up-by-Ricardo-Almeida.pdf?rlkey=60haxq4zoru1vr89dtl6d47lw&st=b2w6r82s&dl=1) by Ricardo Almeida (@vibrio)  
