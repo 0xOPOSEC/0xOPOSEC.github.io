@@ -1,4 +1,4 @@
-█████████████████████████████████████████████████████████████████████████████   
+██████████████████████████████████████████████████████████████████████████   
 
 			     _    _            _        _                                                
 			    | |  | |          | |      | |                                               
@@ -67,7 +67,7 @@ In this workshop, we will dive in, set Surface up, show possible configurations 
 
 **Note:** To get all the details sorted, we will contact all trainees one week before the workshop to confirm your enrollment. If a trainee fails to confirm their attendance on time, it will be deemed invalid, and their slot will be given to the first person on the waiting list.   
                      
-
+---------
 		 _   _            _      _____ _           ______ _                  _   
 		| | | |          | |    |_   _| |          | ___ \ |                | |  
 		| |_| | __ _  ___| | __   | | | |__   ___  | |_/ / | __ _ _ __   ___| |_ 
@@ -103,6 +103,5 @@ If you're eager to find the answers, have fun, and learn how to crack interestin
 **Title:** BYOHack (Small lighting topics about hacking)   
 **Description:** We would love to hear your amazing insights, tips&tricks, or stories about hacking or security in general! Therefore, we encourage all attendees to bring their own lightning talk topics. Our main aim for this event is to share knowledge and insights among fellow enthusiasts while having fun at the same time.   
 **Organization:** Renato Rodrigues (@SiMpS0N)   
-██████████████████████████████████████████████   
 
-
+██████████████████████████████████████████████████████████████████████████   
