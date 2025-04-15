@@ -1,4 +1,4 @@
-█████████████████████████████████████████████████████████████████████████████████████████████   
+█████████████████████████████████████████████████████████████████████████████   
 
 			     _    _            _        _                                                
 			    | |  | |          | |      | |                                               
@@ -22,7 +22,6 @@ Please select only one training session to attend, as they will be happening con
 **Capacity:** Limited to 10 persons (5 groups of two).   
 **Form:** https://bit.ly/HackDay-HardwareFaultInjection   
 
-   
 
 **Title:** WiFi - It's free real estate   
 **Trainer:** Pedro Rodrigues (@darkcookie)   
@@ -33,7 +32,6 @@ In this workshop, we will revisit the old protocols and see how they pan out in 
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-WiFiSecurity   
 
-   
 
 **Title:** Surface Security   
 **Trainers:** Duarte Duarte (@dduarte) and Gustavo Silva (@gsilvapt)   
@@ -48,7 +46,6 @@ In this workshop, we will dive in, set Surface up, show possible configurations 
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-SurfaceSecurity   
 
-   
 
 **Title:** Real world attacks on Active Directory   
 **Trainer:** Gustavo Pinto (@ArmySick)   
@@ -58,7 +55,6 @@ In this workshop, we will dive in, set Surface up, show possible configurations 
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-ActiveDirectorySecurity   
 
-   
 
 **Title:** Web Security 101   
 **Trainers:** Mariana Fernandes (@kikloki)   
