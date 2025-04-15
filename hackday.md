@@ -1,4 +1,4 @@
-██████████████████████████████████████████████   
+█████████████████████████████████████████████████████████████████████████████████████████████   
 
 			     _    _            _        _                                                
 			    | |  | |          | |      | |                                               
@@ -22,16 +22,18 @@ Please select only one training session to attend, as they will be happening con
 **Capacity:** Limited to 10 persons (5 groups of two).   
 **Form:** https://bit.ly/HackDay-HardwareFaultInjection   
 
+   
 
 **Title:** WiFi - It's free real estate   
 **Trainer:** Pedro Rodrigues (@darkcookie)   
 **Duration:** 10:00 - 12:00 (2h)   
 **Description:** Nobody asks for the Internet anymore, everyone asks for the WiFi password! Albeit erroneous, it's the truth. WiFi is now synonymous of Internet, however, how can we ensure that our communications remain secure? A de facto technology that still suffers from vulnerabilities and misconfigurations.
 In this workshop, we will revisit the old protocols and see how they pan out in today's infrastructure. From the clean Open Network to Enterprise Encryptions passing by captive portals, we will look at techniques to leverage these protocols in an offensive way to open the door for bad actors.   
-**Requirements:** Laptop with up-to-date Kali Linux virtual machine and a USB wireless card with injection and monitoring mode capabilities. Helper: https://www.aircrack-ng.org/doku.php?id=compatible_cards.
+**Requirements:** Laptop with up-to-date Kali Linux virtual machine and a USB wireless card with injection and monitoring mode capabilities. Helper: https://www.aircrack-ng.org/doku.php?id=compatible_cards.   
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-WiFiSecurity   
 
+   
 
 **Title:** Surface Security   
 **Trainers:** Duarte Duarte (@dduarte) and Gustavo Silva (@gsilvapt)   
@@ -46,6 +48,7 @@ In this workshop, we will dive in, set Surface up, show possible configurations 
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-SurfaceSecurity   
 
+   
 
 **Title:** Real world attacks on Active Directory   
 **Trainer:** Gustavo Pinto (@ArmySick)   
@@ -55,6 +58,7 @@ In this workshop, we will dive in, set Surface up, show possible configurations 
 **Capacity:** Limited to 12 persons.   
 **Form:** https://bit.ly/HackDay-ActiveDirectorySecurity   
 
+   
 
 **Title:** Web Security 101   
 **Trainers:** Mariana Fernandes (@kikloki)   
