@@ -369,3 +369,8 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 [No Bluesh*t - A keynote about building a decent SOC](https://www.dropbox.com/scl/fi/jrsg721vfu6j2xq2xrrd1/No-Bluesh-t-A-keynote-about-building-a-decent-SOC-by-Miguel-Freitas.pdf?rlkey=dh58y4f41p9hlpbk86852wwmo&st=diov5cuj&dl=1) by Miguel Freitas (@mbie)  
 [Breaking the Bot](https://www.dropbox.com/scl/fi/ho71xgf8rc5ass09tx26m/Breaking-the-Bot-by-Guilherme-Scombatti.pdf?rlkey=deoq7l4355wb69armnztwdqzc&st=fxnjxd6s&dl=1) by Guilherme Scombatti (@scombatti)  
 [Challenge Write-Up by Ricardo Almeida](https://www.dropbox.com/scl/fi/9bt55lbg03425d78n7xw0/0xOPOSEC-Challenge-Write-Up-by-Ricardo-Almeida.pdf?rlkey=60haxq4zoru1vr89dtl6d47lw&st=b2w6r82s&dl=1) by Ricardo Almeida (@vibrio)  
+
+**\[0x0x5F7375625F41414141\] - The Meet**  
+[Private Business, Public Fallout: How OSINT Took Down Portugal's Government](https://www.dropbox.com/scl/fi/822gkkijhg59ilyrb0vqb/Private-Business-Public-Fallout-How-OSINT-Took-Down-Portugal-s-Government-by-Pedro-Vieira.pdf?rlkey=b8tyrd2lykeetxl6769vhkt1r&st=gqcnvm8x&dl=1) by Pedro Vieira (@Shell5)  
+[Maybe Cracking the Crackers - Is Cyber war real?](https://www.dropbox.com/scl/fi/1tw2e8rnhlu9k6vck4gma/Maybe-Cracking-the-Crackers-Is-Cyber-war-real-by-Pedro-Vila-a.pdf?rlkey=ndz7k9vm8xmac2w3iiok8t07e&st=c3ilyw38&dl=1) by Pedro Vilaça (@fG)  
+[Challenge Write-Up by João Morais](#) by João Morais (@jmoraissec)  
