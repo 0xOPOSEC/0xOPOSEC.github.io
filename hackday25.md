@@ -14,20 +14,20 @@
 Please select only one training session to attend, as they will be happening concurrently. Registrations will officially open on Monday, May 19th at 12:00 (GMT+1), mark your calendar! The sign-up forms will stay open until we hit the training capacity, plus a waiting list in case any spots open up.
 
 
-****Title:**** From employee to domain admin - Intro to Active Directory attacks   
-****Trainer:**** Gustavo Pinto (@ArmySick)   
-****Duration:**** 10:00 - 13:00 (3h)   
-****Description:**** An introduction to attacks on Active Directory, with a step-by-step hands-on possible attack chain that leads to full domain compromise. Understand what common Active Directory setups exist in companies, what tooling attackers use to enumerate and attack AD, and how to get the most out of them. This guided workshop is mostly hands-on, with a chain of sequential exercises after small bursts of theory.   
+**Title:** From employee to domain admin - Intro to Active Directory attacks   
+**Trainer:** Gustavo Pinto (@ArmySick)   
+**Duration:** 10:00 - 13:00 (3h)   
+**Description:** An introduction to attacks on Active Directory, with a step-by-step hands-on possible attack chain that leads to full domain compromise. Understand what common Active Directory setups exist in companies, what tooling attackers use to enumerate and attack AD, and how to get the most out of them. This guided workshop is mostly hands-on, with a chain of sequential exercises after small bursts of theory.   
 **Requirements:** A laptop with Kali linux installed inside a Virtual Machine; Some tools pre-installed on the VM to save time during the workshop (List will be provided at a later date).   
-****Capacity:**** Limited to 12 persons.   
-****Form:**** https://forms.gle/2WfoPrfAeC9mJeuV9   
+**Capacity:** Limited to 12 persons.   
+**Form** https://forms.gle/2WfoPrfAeC9mJeuV9   
 
 
 **Title:** BLE 101   
 **Trainer:** David Sopas (@dsopas)   
 **Duration:** 10:00 - 12:30 (2.5h)   
 **Description:** Join me for an introductory yet hands-on workshop diving into the world of Bluetooth Low Energy (BLE) security. We'll start with the fundamentals of BLE communication, including protocols, device roles and data structures. Then, we'll explore common attack surfaces and real-world vulnerabilities found in BLE-enabled devices. Finally, you'll get your hands-on with practical exercises - sniffing, analyzing and breaking BLE communications using open-source tools.   
-Requirements: Laptop running Linux (preferred) or a Linux VM; internal or external BLE-capable adapter; bettercap and wireshark installed.   
+**Requirements:** Laptop running Linux (preferred) or a Linux VM; internal or external BLE-capable adapter; bettercap and wireshark installed.   
 **Capacity:** Limited to 12 persons.   
 **Form:** https://forms.gle/NepcLWF1CcFaW5SS7   
 
@@ -36,7 +36,7 @@ Requirements: Laptop running Linux (preferred) or a Linux VM; internal or extern
 **Trainer:** Pedro Rodrigues (@darkcookie)   
 **Duration:** 10:00 - 13:00 (3h)   
 **Description:** Adopting new technology is always exciting—but as has become standard in the industry, it's often the security engineers who are left to build the necessary controls after the fact. In this workshop, we'll take the road less traveled and shift security left, going beyond the traditional Software Bill of Materials (SBOM) and basic CVE correlation. We'll explore how organizations can securely onboard Kubernetes clusters into their environments from the start. Together, we'll dive into securing each stage of the development lifecycle—Build, Deploy, and Runtime—while also hardening critical adjacent components like the container registry and the cluster infrastructure itself.   
-Requirements: Basic Kubernetes Knowledge; Laptop with at least 16GB of RAM; Minikube (or Colima) installed, A "modern" CPU with at least 6 years, and 50GB of free SSD disk space.   
+**Requirements:** Basic Kubernetes Knowledge; Laptop with at least 16GB of RAM; Minikube (or Colima) installed, A "modern" CPU with at least 6 years, and 50GB of free SSD disk space.   
 **Capacity:** Limited to 12 persons.   
 **Form:** https://forms.gle/DirfVRBSW6gwh5c89   
 
@@ -45,7 +45,7 @@ Requirements: Basic Kubernetes Knowledge; Laptop with at least 16GB of RAM; Mini
 **Trainer:** José Moreira (@zezadas)   
 **Duration:** 10:00 - 12:30 (2.5h)   
 **Description:** This hands-on workshop is designed to help security professionals, testers, and developers understand the most critical security risks facing Android applications today, using real-world examples and practical exercises.   
-Requirements: Android Studio, with emulator running. Java pre-installed on the host.   
+**Requirements:** Android Studio, with emulator running. Java pre-installed on the host.   
 **Capacity:** Limited to 20 persons.   
 **Form:** https://forms.gle/mVjunkuYWHupUmF66   
 
