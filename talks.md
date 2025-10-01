@@ -374,3 +374,7 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 [Private Business, Public Fallout: How OSINT Took Down Portugal's Government](https://www.dropbox.com/scl/fi/822gkkijhg59ilyrb0vqb/Private-Business-Public-Fallout-How-OSINT-Took-Down-Portugal-s-Government-by-Pedro-Vieira.pdf?rlkey=b8tyrd2lykeetxl6769vhkt1r&st=gqcnvm8x&dl=1) by Pedro Vieira (@Shell5)  
 [Maybe Cracking the Crackers - Is Cyber war real?](https://www.dropbox.com/scl/fi/1tw2e8rnhlu9k6vck4gma/Maybe-Cracking-the-Crackers-Is-Cyber-war-real-by-Pedro-Vila-a.pdf?rlkey=ndz7k9vm8xmac2w3iiok8t07e&st=c3ilyw38&dl=1) by Pedro Vilaça (@fG)  
 [Challenge Write-Up by João Morais](https://www.dropbox.com/scl/fi/x69zjbum3tiiwdpaahbd4/Challenge-Write-Up-by-Jo-o-Morais.pdf?rlkey=f5y10v5adqu4acqdyvcskh1gv&st=h4zwghjp&dl=1) by João Morais (@jmoraissec)  
+
+**\[0x2428736332352D646F776E29\] - The Meet**  
+[Compromising Chrome extensions for passive income](https://www.dropbox.com/scl/fi/carzwkjhyfyg2jn7n3ym5/Compromising-Chrome-extensions-for-passive-income-by-Miguel-Freitas.pdf?rlkey=lom3d1cfzmqfavmcfiaqvdua6&st=2qu9asik&dl=1) by Miguel Freitas (@mbie)  
+[The Fall of the Summer Challenge](https://www.dropbox.com/scl/fi/q085gq77nz73hmnb8ecjt/The-Fall-of-the-Summer-Challenge-by-Nuno-Humberto.pdf?rlkey=l4pm98roroirwn86kfaameqs9&st=xtq6d5np&dl=1) by Nuno Humberto (@nunohumberto)  
