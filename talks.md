@@ -378,3 +378,7 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 **\[0x2428736332352D646F776E29\] - The Meet**  
 [Compromising Chrome extensions for passive income](https://www.dropbox.com/scl/fi/carzwkjhyfyg2jn7n3ym5/Compromising-Chrome-extensions-for-passive-income-by-Miguel-Freitas.pdf?rlkey=lom3d1cfzmqfavmcfiaqvdua6&st=2qu9asik&dl=1) by Miguel Freitas (@mbie)  
 [The Fall of the Summer Challenge](https://www.dropbox.com/scl/fi/q085gq77nz73hmnb8ecjt/The-Fall-of-the-Summer-Challenge-by-Nuno-Humberto.pdf?rlkey=l4pm98roroirwn86kfaameqs9&st=xtq6d5np&dl=1) by Nuno Humberto (@nunohumberto)  
+
+**\[0x255044462D4E4553\] - The Meet**  
+[Retro game decompilation using AI](https://www.dropbox.com/scl/fi/hmw1bccyh54uxps6ekhwu/Retro-game-decompilation-using-AI-by-Bruno-Macabeus.pdf?rlkey=y89h11nonyuo49h99e2zk8f1r&st=xxnm6fu7&dl=1) by Bruno Macabeus (@Macabeus)  
+[Inside the PDF: Dissecting Structures and Tactics](https://www.dropbox.com/scl/fi/owri01bv4uw5yhnsh0fj2/Inside-the-PDF-Dissecting-Structures-and-Tactics-by-Filipi-Pires.pptx?rlkey=s7z6e93m9nj6ucdyy18s1it1b&st=m388lmeg&dl=1) by Filipi Pires (@Filipi Pires)  
