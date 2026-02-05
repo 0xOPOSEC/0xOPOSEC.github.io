@@ -4,7 +4,7 @@ title: Talks (Dump)
 ---
 
 
-This page serves as a repository for all presentations from the Meetup.
+This page serves as a repository for all presentations from the Community.
   
 **\[INIT\] - The Gathering**  
 [XXE and XEE detection](https://slides.com/anagomes/xxe-meetup) by Ana Gomes  
@@ -387,6 +387,8 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 [A brief history of the PS Scenes - Intermezzo](https://www.dropbox.com/scl/fi/0neb9dc7x733ek3t0k1jd/A-Brief-History-of-PS-Scenes-Intermezzo-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=f9sp7lnq8l5rl0xh757kawa89&st=9oyit0k4&dl=0) by José Coixão (@José Coixão)  
 Hacking the Portuguese government for fun and no profit by Mario Lima (@comet)  
 [Challenge Write-Up](https://www.dropbox.com/scl/fi/ben47i9vihmmnxjrdgtwo/0x6C3333746861636B73-Writeup-by-Jos-Moreira-zezadas.pdf?rlkey=qjoxrghyruj5rtz4ju4lx6bks&st=goyfu12z&dl=1) by José Moreira (@zezadas)  
+
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2026**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 **\[0x3433312D6C333374\] - The Meet**  
 [Stealing the keys from the octopus: Exfiltrate Git Credentials in Argocd](https://www.dropbox.com/scl/fi/1f2b3fb8kmhoezkuts94p/Stealing-the-keys-from-the-octopus-Exfiltrate-Git-Credentials-in-Argocd-by-Jo-o-Marono-r0n0.pdf?rlkey=7o4b77oiih9fcgdyxyct9qsbl&st=cqtg8dmk&dl=1) by João Marono (@r0n0)  
