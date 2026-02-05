@@ -368,12 +368,12 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 **\[0x48695F4D617374657221\] - The Meet**  
 [No Bluesh*t - A keynote about building a decent SOC](https://www.dropbox.com/scl/fi/jrsg721vfu6j2xq2xrrd1/No-Bluesh-t-A-keynote-about-building-a-decent-SOC-by-Miguel-Freitas.pdf?rlkey=dh58y4f41p9hlpbk86852wwmo&st=diov5cuj&dl=1) by Miguel Freitas (@mbie)  
 [Breaking the Bot](https://www.dropbox.com/scl/fi/ho71xgf8rc5ass09tx26m/Breaking-the-Bot-by-Guilherme-Scombatti.pdf?rlkey=deoq7l4355wb69armnztwdqzc&st=fxnjxd6s&dl=1) by Guilherme Scombatti (@scombatti)  
-[Challenge Write-Up by Ricardo Almeida](https://www.dropbox.com/scl/fi/9bt55lbg03425d78n7xw0/0xOPOSEC-Challenge-Write-Up-by-Ricardo-Almeida.pdf?rlkey=60haxq4zoru1vr89dtl6d47lw&st=b2w6r82s&dl=1) by Ricardo Almeida (@vibrio)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/9bt55lbg03425d78n7xw0/0xOPOSEC-Challenge-Write-Up-by-Ricardo-Almeida.pdf?rlkey=60haxq4zoru1vr89dtl6d47lw&st=b2w6r82s&dl=1) by Ricardo Almeida (@vibrio)  
 
 **\[0x5F7375625F41414141\] - The Meet**  
 [Private Business, Public Fallout: How OSINT Took Down Portugal's Government](https://www.dropbox.com/scl/fi/822gkkijhg59ilyrb0vqb/Private-Business-Public-Fallout-How-OSINT-Took-Down-Portugal-s-Government-by-Pedro-Vieira.pdf?rlkey=b8tyrd2lykeetxl6769vhkt1r&st=gqcnvm8x&dl=1) by Pedro Vieira (@Shell5)  
 [Maybe Cracking the Crackers - Is Cyber war real?](https://www.dropbox.com/scl/fi/1tw2e8rnhlu9k6vck4gma/Maybe-Cracking-the-Crackers-Is-Cyber-war-real-by-Pedro-Vila-a.pdf?rlkey=ndz7k9vm8xmac2w3iiok8t07e&st=c3ilyw38&dl=1) by Pedro Vilaça (@fG)  
-[Challenge Write-Up by João Morais](https://www.dropbox.com/scl/fi/x69zjbum3tiiwdpaahbd4/Challenge-Write-Up-by-Jo-o-Morais.pdf?rlkey=f5y10v5adqu4acqdyvcskh1gv&st=h4zwghjp&dl=1) by João Morais (@jmoraissec)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/x69zjbum3tiiwdpaahbd4/Challenge-Write-Up-by-Jo-o-Morais.pdf?rlkey=f5y10v5adqu4acqdyvcskh1gv&st=h4zwghjp&dl=1) by João Morais (@jmoraissec)  
 
 **\[0x2428736332352D646F776E29\] - The Meet**  
 [Compromising Chrome extensions for passive income](https://www.dropbox.com/scl/fi/carzwkjhyfyg2jn7n3ym5/Compromising-Chrome-extensions-for-passive-income-by-Miguel-Freitas.pdf?rlkey=lom3d1cfzmqfavmcfiaqvdua6&st=2qu9asik&dl=1) by Miguel Freitas (@mbie)  
@@ -382,3 +382,14 @@ The Parking Chronicles - A DIY Guide to Controller Detection by David Sopas (@ds
 **\[0x255044462D4E4553\] - The Meet**  
 [Retro game decompilation using AI](https://www.dropbox.com/scl/fi/hmw1bccyh54uxps6ekhwu/Retro-game-decompilation-using-AI-by-Bruno-Macabeus.pdf?rlkey=y89h11nonyuo49h99e2zk8f1r&st=xxnm6fu7&dl=1) by Bruno Macabeus (@Macabeus)  
 [Inside the PDF: Dissecting Structures and Tactics](https://www.dropbox.com/scl/fi/owri01bv4uw5yhnsh0fj2/Inside-the-PDF-Dissecting-Structures-and-Tactics-by-Filipi-Pires.pptx?rlkey=s7z6e93m9nj6ucdyy18s1it1b&st=m388lmeg&dl=1) by Filipi Pires (@Filipi Pires)  
+
+**\[0x6C3333746861636B73\] - The Meet**  
+[A brief history of the PS Scenes - Intermezzo](https://www.dropbox.com/scl/fi/0neb9dc7x733ek3t0k1jd/A-Brief-History-of-PS-Scenes-Intermezzo-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=f9sp7lnq8l5rl0xh757kawa89&st=9oyit0k4&dl=0) by José Coixão (@José Coixão)  
+Hacking the Portuguese government for fun and no profit by Mario Lima (@comet)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/ben47i9vihmmnxjrdgtwo/0x6C3333746861636B73-Writeup-by-Jos-Moreira-zezadas.pdf?rlkey=qjoxrghyruj5rtz4ju4lx6bks&st=goyfu12z&dl=1) by José Moreira (@zezadas)  
+
+**\[0x3433312D6C333374\] - The Meet**  
+[Stealing the keys from the octopus: Exfiltrate Git Credentials in Argocd](https://www.dropbox.com/scl/fi/1f2b3fb8kmhoezkuts94p/Stealing-the-keys-from-the-octopus-Exfiltrate-Git-Credentials-in-Argocd-by-Jo-o-Marono-r0n0.pdf?rlkey=7o4b77oiih9fcgdyxyct9qsbl&st=cqtg8dmk&dl=1) by João Marono (@r0n0)  
+[Scream at It Until It Escalates](https://www.dropbox.com/scl/fi/js4e5r45igdf7eg9mhyyk/Scream-at-It-Until-It-Escalates-by-Rafael-Castilho-castilho.pdf?rlkey=gbg9rzap1wq1oxl8nfznwe8eu&st=hrq56a1h&dl=1) by Rafael Castilho (@castilho)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/l1ldejsr0dacoj67jv52v/0XOPOSEC-The-Crimson-Challenge-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=wacq2pjbu2k6927voazh3tc1l&st=ocylgw3j&dl=1) by Pedro Rodrigues (@darkcookie)  
+
