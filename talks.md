@@ -100,8 +100,8 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2023**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 **\[0x4F53494E54\] - The Meet**  
-OSINT - Beware. Your data is out there by Pedro Vieira (Shell5)  
-Once Upon a Time a Xmas Challenge by The Crew  
+[OSINT - Beware. Your data is out there](https://www.dropbox.com/scl/fi/at5x3dyq38vk1ppw6qljp/OSINT-Beware.-Your-data-is-out-there-by-Pedro-Vieira-Shell5.pdf?rlkey=8l7ffzavl3iiccbh0axk1w8s9&st=p4x9utuz&dl=1) by Pedro Vieira (@Shell5)  
+[Once Upon a Time a Xmas Challenge](https://www.dropbox.com/scl/fi/cr2lo2322nmwga0kalpwe/Once-Upon-a-Time-a-Xmas-Challenge.pdf?rlkey=l5eokggwasej2slk9mk774mqd&st=af5oge0m&dl=1) by The Crew  
 
 **\[0x5245636F6C6C61707365\] - The Meet**  
 Till REcollapse: Fuzzing the Web for Mysterious Bugs by André Baptista (@0xACB)  
