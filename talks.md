@@ -104,8 +104,9 @@ Unlocking obsolescence: exploiting vulnerabilities to extend system's longevity 
 [Once Upon a Time a Xmas Challenge](https://www.dropbox.com/scl/fi/cr2lo2322nmwga0kalpwe/Once-Upon-a-Time-a-Xmas-Challenge.pdf?rlkey=l5eokggwasej2slk9mk774mqd&st=af5oge0m&dl=1) by The Crew  
 
 **\[0x5245636F6C6C61707365\] - The Meet**  
-Till REcollapse: Fuzzing the Web for Mysterious Bugs by André Baptista (@0xACB)  
-Celebrating 7 years of sharing! by Renato Rodrigues (@SiMpS0N)  
+[Till REcollapse: Fuzzing the Web for Mysterious Bugs](https://www.dropbox.com/scl/fi/kpq19h2q3dxk2yt3hts7a/0xOPOSEC-Till-REcollapse_-fuzzing-the-web-for-mysterious-bugs-by-Andr-Baptista-0xACB.pdf?rlkey=cllbz671zovwq5nqqlsbod1ye&st=x2lap9z9&dl=1) by André Baptista (@0xACB)  
+[Celebrating 7 years of sharing!](https://www.dropbox.com/scl/fi/psqtgoaqi64khcluwxmz1/Celebrating-7-years-of-sharing-by-Renato-Rodrigues-SiMpS0N.pdf?rlkey=jiywaqh3pebo9iobeq3mglpek&st=sdx55nxq&dl=0) by Renato Rodrigues (@SiMpS0N)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/jc899h1m1ng0jtucfnfxu/Challenge-Write-up-by-Vitor-Ribeiro-vdrb.pdf?rlkey=1ftgzppk5kiolldke8wpoe0bz&st=7xbgvn1i&dl=1) by Vitor Ribeiro (@vdrb)
 
 **\[0x582D526179\] - The Meet**  
 The fine line between sharing and oversharing by Guilherme Scombatti (@scombatti)  
