@@ -13,6 +13,14 @@ This page serves as a repository for all presentations from the Community.
 [Scream at It Until It Escalates](https://www.dropbox.com/scl/fi/js4e5r45igdf7eg9mhyyk/Scream-at-It-Until-It-Escalates-by-Rafael-Castilho-castilho.pdf?rlkey=gbg9rzap1wq1oxl8nfznwe8eu&st=hrq56a1h&dl=1) by Rafael Castilho (@castilho)  
 [Challenge Write-Up](https://www.dropbox.com/scl/fi/l1ldejsr0dacoj67jv52v/0XOPOSEC-The-Crimson-Challenge-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=wacq2pjbu2k6927voazh3tc1l&st=ocylgw3j&dl=1) by Pedro Rodrigues (@darkcookie)  
 
+**\[0x526F756E64313021\] - The Meet**  
+[Celebrating 10 years of sharing!](https://www.dropbox.com/scl/fi/97z097g1hfziynxuecxsr/Celebrating-10-years-of-sharing-by-Renato-Rodrigues-simps0n.pdf?rlkey=p5vhu3wwq41ugtapjm8ocdhe0&st=zhoea5fj&dl=1) by Renato Rodrigues (@SiMpS0N)  
+[CVEs: Past and Present and the future of CVE learning](https://www.dropbox.com/scl/fi/2eswjimpfqvqvxo0kh9fn/CVEs-Past-and-Present-and-the-future-of-CVE-learning-by-Afonso-Vit-rio-g4uss.pdf?rlkey=9rt9i1bs2bqgpqxm37rk7ybd0&st=as0ylzg2&dl=1) by Afonso Vitório (@g4uss)  
+[regaBOF - Developing your stealthy Red Team tradecraft](https://www.dropbox.com/scl/fi/phz87xul6lnokrwevadad/regaBOF-Developing-your-stealthy-Red-Team-tradecraft-by-Gustavo-Pinto-ArmySick.pdf?rlkey=tjjeitdpbjbxd95djaksl7ykr&st=0mkl7a2p&dl=1) by Gustavo Pinto (@ArmySick)  
+[Challenge Write-Up*](https://www.dropbox.com/scl/fi/xtps4777rdwd3l9nmg02i/Challenge-Write-up-by-C-sar-Silva-apl3b.mov?rlkey=7j75ds8u0lfxsoy8qyoj1e3bg&st=1kvafftn&dl=1) by César Silva (@apl3b)  
+*For those who want to go deeper, @apl3b dropped a proper [step-by-step breakdown](https://www.dropbox.com/scl/fi/xrl8cyafw7x8rchfoh80k/Challenge-Write-up-Step-by-Step-Breakdown-by-C-sar-Silva-apl3b.mov?rlkey=haku40keb19skbp7ujpno38xa&st=85sbb84u&dl=1).
+
+
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2025**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 **\[0x76392E393939\] - The Meet**  
