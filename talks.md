@@ -20,6 +20,14 @@ This page serves as a repository for all presentations from the Community.
 [Challenge Write-Up*](https://www.dropbox.com/scl/fi/xtps4777rdwd3l9nmg02i/Challenge-Write-up-by-C-sar-Silva-apl3b.mov?rlkey=7j75ds8u0lfxsoy8qyoj1e3bg&st=1kvafftn&dl=1) by César Silva (@apl3b)  
 *For those who want to go deeper, @apl3b dropped a proper [step-by-step breakdown](https://www.dropbox.com/scl/fi/xrl8cyafw7x8rchfoh80k/Challenge-Write-up-Step-by-Step-Breakdown-by-C-sar-Silva-apl3b.mov?rlkey=haku40keb19skbp7ujpno38xa&st=85sbb84u&dl=1).
 
+**\[0x6D6F76206561782C203130\] - The Meet**  
+[Detection Engineering in the AI Era](https://www.dropbox.com/scl/fi/tuhixepehkzcrzyk4xcpp/Detection-Engineering-in-the-AI-Era-by-Gustavo-Silva-gsilvapt.pdf?rlkey=rv9ebkcpcammfc0vvkfqd92wq&st=9qjxww2q&dl=1) by Gustavo Silva (@gsilvapt)  
+[A Red Team Tale](https://www.dropbox.com/scl/fi/7840fgt1eb7j4pqfpkmrn/A-Red-Team-Tale-by-Ricardo-Almeida-vibrio.pdf?rlkey=dj069iqwlfugxnoljbq8em0ud&st=n16rwqp1&dl=1) by Ricardo Almeida (@vibrio)  
+
+**\[0x5B4265473030445D\] - The Meet**  
+[SOC AI ̵A̵u̵t̵o̵m̵a̵t̵i̵o̵n̵ Full Assistant: Humans in Control](https://www.dropbox.com/scl/fi/yhbh9g1s0hmkyzvj1v806/SOC-AI-A-u-t-o-m-a-t-i-o-n-Full-Assistant-Humans-in-Control-by-Sim-o-Ribeiro-BLUECAP.-ONE.pdf?rlkey=dit2gp5jpj62vsyurnkohjmpw&st=1swmuipk&dl=1) by Simão Ribeiro (@BLUECAP.ONE)  
+[Extending My Access](https://www.dropbox.com/scl/fi/pyjs1aynhqtzkx6351t4z/Extending-My-Access-by-Rodrigo-Lima-Pengrey.pdf?rlkey=xu4m2pd0frfiw701848zx55r3&st=wiwgmsjj&dl=1) by Rodrigo Lima (@Pengrey)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/6ovjd7m9x506yjq4j9ai0/Challenge-Write-up-by-Eduardo-Miranda-dinho.pdf?rlkey=zrr43f82xxbuqz6psyqfgqjd8&st=j88baewc&dl=1) by Eduardo Miranda by (@dinho)  
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2025**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
