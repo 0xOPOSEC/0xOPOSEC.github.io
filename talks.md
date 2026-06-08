@@ -29,6 +29,11 @@ This page serves as a repository for all presentations from the Community.
 [Extending My Access](https://www.dropbox.com/scl/fi/pyjs1aynhqtzkx6351t4z/Extending-My-Access-by-Rodrigo-Lima-Pengrey.pdf?rlkey=xu4m2pd0frfiw701848zx55r3&st=wiwgmsjj&dl=1) by Rodrigo Lima (@Pengrey)  
 [Challenge Write-Up](https://www.dropbox.com/scl/fi/6ovjd7m9x506yjq4j9ai0/Challenge-Write-up-by-Eduardo-Miranda-dinho.pdf?rlkey=zrr43f82xxbuqz6psyqfgqjd8&st=j88baewc&dl=1) by Eduardo Miranda by (@dinho)  
 
+**\[0x6E7972656728716562617229\] - The Meet**  
+[From Out-Of-Scope XSS to Account Takeover: The iFrame Sandwich](https://www.dropbox.com/scl/fi/a68es0a0melh2zhz4hswz/From-Out-Of-Scope-XSS-to-Account-Takeover-The-iFrame-Sandwich-by-Dinis-Costa-varanda.pdf?rlkey=psn8nkeqixhrs28pyso57cqz3&st=6u6bxnic&dl=1) by Dinis Costa (@varanda)  
+[From CC:CC:CC:CC:CC to Liftoff](https://www.dropbox.com/scl/fi/20eopxe6xh6t2rx9ye8yk/From-CC_CC_CC_CC_CC-to-Liftoff-by-Duarte-Monteiro-d0kt0r.pdf?rlkey=j6ztkbfoxtf94l9i71xva5rzn&st=p15h002c&dl=1) by Duarte Monteiro (@d0kt0r)  
+
+
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2025**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 **\[0x76392E393939\] - The Meet**  
