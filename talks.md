@@ -33,6 +33,11 @@ This page serves as a repository for all presentations from the Community.
 [From Out-Of-Scope XSS to Account Takeover: The iFrame Sandwich](https://www.dropbox.com/scl/fi/a68es0a0melh2zhz4hswz/From-Out-Of-Scope-XSS-to-Account-Takeover-The-iFrame-Sandwich-by-Dinis-Costa-varanda.pdf?rlkey=psn8nkeqixhrs28pyso57cqz3&st=6u6bxnic&dl=1) by Dinis Costa (@varanda)  
 [From CC:CC:CC:CC:CC to Liftoff](https://www.dropbox.com/scl/fi/20eopxe6xh6t2rx9ye8yk/From-CC_CC_CC_CC_CC-to-Liftoff-by-Duarte-Monteiro-d0kt0r.pdf?rlkey=j6ztkbfoxtf94l9i71xva5rzn&st=p15h002c&dl=1) by Duarte Monteiro (@d0kt0r)  
 
+**\[0x257025732D6C697361\] - The Meet**  
+[A Brief History of the Playstation Scenes - Finale](https://www.dropbox.com/scl/fi/0xfwpj0ly89c3pgbrzx1x/A-Brief-History-of-the-Playstation-Scenes-Finale-by-Jos-Coix-o-Jos-Coix-o.pdf?rlkey=b3sb05yd1zzjh7hkfq5qs0jr2&st=an5heauy&dl=1) by José Coixão (@José Coixão)  
+[From POP to PUSH](https://www.dropbox.com/scl/fi/592ueuefckfud82yr8p7p/From-POP-to-PUSH-by-C-sar-Silva-apl3b.pdf?rlkey=kr6amsotfmttqjdtq59xs7njh&st=h9ei5xu5&dl=1) by César Silva (@apl3b)  
+[Challenge Write-Up](https://www.dropbox.com/scl/fi/pasz69vm5wqi5nfyp9cj4/Challenge-Write-Up-by-Pedro-Rodrigues-darkcookie.pdf?rlkey=54ssus775c2xgraomr3pwonwl&st=0lhzh188&dl=1) by Pedro Rodrigues (@darkcookie)  
+
 
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒**2025**▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
